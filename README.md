@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @shouryakakkar<br>👀 I’m interested in Python, Java, SQL & Bash Scripting<br>🌱 I’m currently learning C++ and MERN<br>📫 How to reach me https://www.linkedin.com/in/shouryakakkar/</p>
+<p align="left">👋 Hi, I’m @shouryakakkar<br>👀 I’m interested in Data Analysis, Web Dev & Cybersecurity <br>📫 How to reach me https://www.linkedin.com/in/shouryakakkar/</p>
 
 ###
 
