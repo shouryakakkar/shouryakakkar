@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Shourya Kakkar<br>👀 I’m interested in Cybersecurity, MERN Dev, Data Analysis<br>📫 How to reach me https://www.linkedin.com/in/shouryakakkar/</p>
+<p align="left">👋 Hi, I’m Shourya Kakkar<br>👀 I’m interested in Cybersecurity and MERN Dev<br>📫 How to reach me https://www.linkedin.com/in/shouryakakkar/</p>
 
 ###
 
